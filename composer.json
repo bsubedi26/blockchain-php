@@ -1,0 +1,7 @@
+{
+
+	"name": "blockchain-php",
+	"description": "A simple block chain implementation written in PHP.",
+	"license": "MIT",
+  "author": "Bibek Subedi"
+}
